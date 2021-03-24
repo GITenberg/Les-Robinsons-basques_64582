@@ -1,0 +1,35 @@
+_repo: Les-Robinsons-basques_64582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jammes, Francis
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '4702'
+    url: http://www.gutenberg.org/2009/agents/4702
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Francis_Jammes
+    - https://en.wikipedia.org/wiki/Francis_Jammes
+description: ''
+gutenberg_issued: '2021-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64582'
+  lccn: '26024107'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- France -- Pays Basque'
+- !lcsh 'Folklore -- France -- Pays Basque'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Introduction -- Les Basques abordent en terre vierge -- Fondation
+  du premier foyer -- La généalogie -- Formation des principaux couples -- Le jour
+  et la nuit a Ascain -- Le siège de Pampelune -- Chant d'amour de Tiruztaya et de
+  Lôréa -- La vérité dans le rêve -- Les fiançailles de Roland et d'Aude -- Les États-généraux
+  -- Ma cousine Éva, un trésor -- La répétition générale -- Le triomphe d'Éva -- La
+  conclusion inattendue -- Où la race basque triomphe de l'étranger.
+title: Les Robinsons basques
+url: http://www.gutenberg.org/ebooks/64582
